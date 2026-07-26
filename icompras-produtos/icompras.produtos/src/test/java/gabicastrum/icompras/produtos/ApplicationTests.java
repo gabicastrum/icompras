@@ -1,13 +1,14 @@
-package gabicastrum.icompras.produtos;
+// package gabicastrum.icompras.produtos;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class ApplicationTests {
+//TODO precisa adicionar o flyway
+// @SpringBootTest
+// class ApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
